@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+temp_data.csv
+*_local.png
+venv/
+env/
